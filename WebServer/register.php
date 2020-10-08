@@ -1,5 +1,4 @@
-<?php 
-
+<?php include 'parts/header.php'
 ?>
 <form action="/">
         <label for="fname">First name:</label><br>
@@ -14,4 +13,6 @@
         <input type="submit" value="Submit">
         
     </form>
-<?php include '../basic/footer.php';?>
+    <h2>Register</h2>
+<?php include 'parts/footer.php';
+?>
