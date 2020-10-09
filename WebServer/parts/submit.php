@@ -4,7 +4,7 @@
         <label for="age">age:</label><br>
         <input type="number" id="age" name="age"><br><br>
         <div>
-            <textarea name="Dream" id="text_dream" cols="80" rows="15">                         Here you can write your dream</textarea>
+            <textarea name="Dream" id="text_dream" cols="80" rows="15">Here you can write your dream</textarea>
         </div>
         <input type="submit" value="Submit">
         <h3>you are submiting as a guest</h3>
